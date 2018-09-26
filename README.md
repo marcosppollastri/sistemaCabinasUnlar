@@ -1,4 +1,4 @@
-# sistemaCabinasUnlar
+# sistemaCabinasUnlarApp
 
 El software desarrollado cumple con la necesidad planteada por el siguiente caso de estudio
 
