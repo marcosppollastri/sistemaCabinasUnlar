@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="sistemacabinas" version="4">
+  <OBJECT>
+    <ID name="sistemacabinas" mc="Standard.Package" uid="ff6bca37-d3ca-4556-9c9e-80b3207b88a1"/>
+    <PID name="SistemaCabinas" mc="Standard.Project" uid="2f61dca3-623b-4c51-a273-4d3def44ae1c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[sistemacabinas]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="2f1a5dfb-cfe6-4ce2-bd67-0d9d18124ba8"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Registro" mc="Standard.Class" uid="d3c9074c-22a0-4ed5-bb73-0841f93a8311"/>
+        <COMPID name="Cabina" mc="Standard.Class" uid="d31fc187-7af0-426b-8d52-db27f70efc1d"/>
+        <COMPID name="Llamada" mc="Standard.Class" uid="ae87c1e8-35b5-493c-a98e-518ca64a8188"/>
+        <COMPID name="Operador" mc="Standard.Class" uid="d5db71a1-9da5-4cb6-982b-bafc8df87ac7"/>
+        <COMPID name="Persona" mc="Standard.Class" uid="704bc22f-b224-4f49-b856-8f52388a862c"/>
+        <COMPID name="Encargado" mc="Standard.Class" uid="4f50bdcf-2316-4209-9a2c-784fa95e371c"/>
+        <COMPID name="A_Encargado" mc="Standard.Actor" uid="b3664073-1093-4a3d-9a37-2554784361ff"/>
+        <COMPID name="A_Operador" mc="Standard.Actor" uid="e9018675-b428-41de-89de-3aece537bd87"/>
+        <COMPID name="Generación de informes y reportes" mc="Standard.UseCase" uid="2426e752-24fe-43d1-ab8f-7e586e75836c"/>
+        <COMPID name="Impresión de tickets" mc="Standard.UseCase" uid="6d302769-4dac-441c-8255-85d13d48f5a0"/>
+        <COMPID name="Administración de cabinas" mc="Standard.UseCase" uid="b8677ec7-2b32-4c29-b992-ca9eeec805a4"/>
+        <COMPID name="Generación de reportes de llamadas y promociones" mc="Standard.UseCase" uid="eec60e71-4ceb-40e5-b399-d8abc02cc14f"/>
+        <COMPID name="Generación de reportes de porcentajes de cabina" mc="Standard.UseCase" uid="ea188913-44c6-41f0-8746-8b2344b03bbf"/>
+        <COMPID name="Consulta de datos y llamadas" mc="Standard.UseCase" uid="2a1eb0db-400d-45f3-b995-bceed631d63e"/>
+        <COMPID name="Verificación de cabinas" mc="Standard.UseCase" uid="0a9ae075-a6fc-48b1-aeba-05dc3c13fb20"/>
+        <COMPID name="Registro de llamadas" mc="Standard.UseCase" uid="fda08e33-d396-42a7-a127-87f769bc80f9"/>
+        <COMPID name="Ticket" mc="Standard.Class" uid="53995fc4-cef9-4dc1-8297-71abc882d1cb"/>
+        <COMPID name="TipoLlamada" mc="Standard.Class" uid="4a5326d9-77d3-477c-846d-4d1ddad412a0"/>
+        <COMPID name="Informe" mc="Standard.Class" uid="f244e35b-e8c3-4659-a37d-40c8bd528d27"/>
+        <COMPID name="Servidor" mc="Standard.Node" uid="80b1e792-c6b9-44ed-bcbf-71e5ad7f8489"/>
+        <COMPID name="Operador" mc="Standard.Node" uid="60a1d3d1-2fcc-4bd8-b2e2-b84a1f8d1ef7"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="SistemaCabinas Diagrama de Clases" mc="Standard.ClassDiagram" uid="d9a8bed5-51c3-49a6-a4d0-ad3a5de534a2"/>
+        <COMPID name="cabina casoDeUso Contexto" mc="Standard.UseCaseDiagram" uid="90cfdc6e-4a2e-4d29-8492-4c4c35bdeb97"/>
+        <COMPID name="cabina casoDeUso Requisitos" mc="Standard.UseCaseDiagram" uid="cc054279-4525-4189-b89a-bbed2548826c"/>
+        <COMPID name="sistemacabinas Deployment diagram" mc="Standard.DeploymentDiagram" uid="c208669e-dc8f-4ffc-b9f2-7696abf1aebf"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

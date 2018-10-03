@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="cabina casoDeUso Requisitos" version="4">
+  <OBJECT>
+    <ID name="cabina casoDeUso Requisitos" mc="Standard.UseCaseDiagram" uid="cc054279-4525-4189-b89a-bbed2548826c"/>
+    <PID name="sistemacabinas" mc="Standard.Package" uid="ff6bca37-d3ca-4556-9c9e-80b3207b88a1"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">346</ATT>
+      <ATT name="UiData"><![CDATA[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]]></ATT>
+      <ATT name="Name"><![CDATA[cabina casoDeUso Requisitos]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <ID name="sistemacabinas" mc="Standard.Package" uid="ff6bca37-d3ca-4556-9c9e-80b3207b88a1"/>
+        <ID name="A_Encargado" mc="Standard.Actor" uid="b3664073-1093-4a3d-9a37-2554784361ff"/>
+        <ID name="A_Operador" mc="Standard.Actor" uid="e9018675-b428-41de-89de-3aece537bd87"/>
+        <ID name="Generación de informes y reportes" mc="Standard.UseCase" uid="2426e752-24fe-43d1-ab8f-7e586e75836c"/>
+        <ID name="Impresión de tickets" mc="Standard.UseCase" uid="6d302769-4dac-441c-8255-85d13d48f5a0"/>
+        <ID name="Administración de cabinas" mc="Standard.UseCase" uid="b8677ec7-2b32-4c29-b992-ca9eeec805a4"/>
+        <ID name="Generación de reportes de llamadas y promociones" mc="Standard.UseCase" uid="eec60e71-4ceb-40e5-b399-d8abc02cc14f"/>
+        <ID name="Generación de reportes de porcentajes de cabina" mc="Standard.UseCase" uid="ea188913-44c6-41f0-8746-8b2344b03bbf"/>
+        <ID name="Consulta de datos y llamadas" mc="Standard.UseCase" uid="2a1eb0db-400d-45f3-b995-bceed631d63e"/>
+        <ID name="Verificación de cabinas" mc="Standard.UseCase" uid="0a9ae075-a6fc-48b1-aeba-05dc3c13fb20"/>
+        <ID name="Registro de llamadas" mc="Standard.UseCase" uid="fda08e33-d396-42a7-a127-87f769bc80f9"/>
+        <REFOBJ>
+          <ID name="UseCaseDependency" mc="Standard.UseCaseDependency" uid="368f18a2-8754-4fe5-b9f8-f91ba75691b7"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="UseCaseDependency" mc="Standard.UseCaseDependency" uid="af1440d6-c1f0-4813-a00e-2474e50ade74"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="UseCaseDependency" mc="Standard.UseCaseDependency" uid="24698d38-193f-4ea6-94f1-f291ef147937"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="UseCaseDependency" mc="Standard.UseCaseDependency" uid="24867153-c7ef-4693-b18e-53b56ba3a85e"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="UseCaseDependency" mc="Standard.UseCaseDependency" uid="0ea4798d-cc12-4854-88fb-d52f15d9b5b1"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="3829a38f-b6e5-495b-9bf8-d972b0041a64"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
